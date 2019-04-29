@@ -9,31 +9,43 @@ permalink: /build/
 
   {% include first.html %}
 <div class="row center">
-<div class="col s2 offset-s1">
-  <a href="{% post_url 2018-03-15-Mesmer %}"><img src="/downloads/icon2/mesmer.png"></a>
-</div>
-<div class="col s2 ">
-  <a href="{% post_url 2018-03-16-Ranger %}"><img src="/downloads/icon2/ranger.png"></a>
-</div>
-<div class="col s2">
-  <a href="{% post_url 2018-03-16-Warrior %}"><img src="/downloads/icon2/warrior.png "></a>
-</div>
-<div class="col s2">
-  <a href="{% post_url 2018-03-15-Mesmer %}"><img src="/downloads/icon2/guardian.png"></a>
-</div>
-<div class="col s2">
-  <a href="{% post_url 2018-03-15-Mesmer %}"><img src="/downloads/icon2/revenant.jpg"></a>
-</div>
-<div class="col s2 offset-s2">
-  <a href="{% post_url 2018-03-15-Mesmer %}"><img src="/downloads/icon2/engineer.png"></a>
-</div>
-<div class="col s2">
-  <a href="{% post_url 2018-03-15-Mesmer %}"><img src="/downloads/icon2/necromancer.png"></a>
-</div>
-<div class="col s2">
-  <a href="{% post_url 2018-03-15-Mesmer %}"><img src="/downloads/icon2/thief.png"></a>
-</div>
-<div class="col s2">
-  <a href="{% post_url 2018-03-15-Mesmer %}"><img src="/downloads/icon2/ele.png"></a>
-</div>
+<table class='centered'>
+
+  <tr>
+  <td>
+   <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/mesmer.png">Mesemer</a>
+  </td>
+  <td>
+   <a href="{% post_url 2018-03-16-Ranger %}"><img src="/downloads/icon2/ranger.png">Ranger</a>
+  </td>
+  <td>
+    <a href="{% post_url 2018-03-16-Warrior %}"><img src="/downloads/icon2/warrior.png ">Warrior</a>
+  </td>
+  </tr>
+  
+  <tr>
+  <td>
+   <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/guardian.png">Guardian</a>
+  </td>
+  <td>
+    <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/revenant.jpg">Revenant</a>
+  </td>
+  <td>
+    <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/engineer.png">Engineer</a>
+  </td>
+  </tr>
+  
+  <tr>
+  <td>
+  <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/necromancer.png">Necromancer</a>
+  </td>
+  <td>
+  <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/thief.png">Thief</a>
+  </td>
+  <td>
+  <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/ele.png">Elemeantalist</a>
+  </td>
+  </tr>
+  
+</table>
 </div>
