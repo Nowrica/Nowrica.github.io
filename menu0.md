@@ -16,7 +16,7 @@ permalink: /build/
    <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/mesmer.png">Mesemer</a>
   </td>
   <td>
-   <a href="{% post_url 2018-03-16-Ranger %}"><img src="/downloads/icon2/ranger.png">Ranger</a>
+   <a href="{% post_url 2019-04-30-Ranger %}"><img src="/downloads/icon2/ranger.png">Ranger</a>
   </td>
   <td>
     <a href="{% post_url 2018-03-16-Warrior %}"><img src="/downloads/icon2/warrior.png ">Warrior</a>
