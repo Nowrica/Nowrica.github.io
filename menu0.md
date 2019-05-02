@@ -19,13 +19,13 @@ permalink: /build/
    <a href="{% post_url 2019-04-30-Ranger %}"><img src="/downloads/icon2/ranger.png">Ranger</a>
   </td>
   <td>
-    <a href="{% post_url 2018-03-16-Warrior %}"><img src="/downloads/icon2/warrior.png ">Warrior</a>
+    <a href="{% post_url 2019-05-02-Warrior %}"><img src="/downloads/icon2/warrior.png ">Warrior</a>
   </td>
   </tr>
   
   <tr>
   <td>
-   <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/guardian.png">Guardian</a>
+   <a href="{% post_url 2019-05-02-Guardian %}"><img src="/downloads/icon2/guardian.png">Guardian</a>
   </td>
   <td>
     <a href="{% post_url 2019-04-29-Mesmer %}"><img src="/downloads/icon2/revenant.jpg">Revenant</a>
